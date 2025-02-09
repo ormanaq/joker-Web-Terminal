@@ -30,13 +30,11 @@ cd joker-Web-Terminal
 pip3 install -r requirements.txt
 ```
 
-4. Run with screen (recommended for VPS):
+4. Run App:
 ```bash
-screen -S joker-terminal
+
 python3 main.py
 
-# Press Ctrl+A, then D to detach
-# To reattach: screen -r joker-terminal
 ```
 
 Or create a systemd service (for automatic startup):

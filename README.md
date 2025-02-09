@@ -30,7 +30,7 @@ cd joker-Web-Terminal
 pip3 install -r requirements.txt
 ```
 
-4. Run App:
+4. Run The App:
 ```bash
 
 python3 main.py

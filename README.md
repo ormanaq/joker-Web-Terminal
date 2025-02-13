@@ -21,7 +21,7 @@ sudo yum install python3 python3-pip git screen -y
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/ormanaq/joker-Web-Terminal.git
+git clone https://github.com/ormanaq/joker-Web-Terminal
 cd joker-Web-Terminal
 ```
 
